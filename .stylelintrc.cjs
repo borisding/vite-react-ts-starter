@@ -1,4 +1,5 @@
 module.exports = {
+  plugins: ['stylelint-prettier'],
   extends: [
     'stylelint-config-standard',
     'stylelint-config-css-modules',
